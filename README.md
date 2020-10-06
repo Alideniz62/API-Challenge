@@ -23,11 +23,11 @@ Whether financial, political, or social -- data's true power lies in its ability
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](Images/hotel_map.png)
+
 
 As final considerations:
 
-* Create a new GitHub repository for this project called `API-Challenge` (note the kebab-case). **Do not add to an existing repo**
+
 * You must complete your analysis using a Jupyter notebook.
 * You must use the Matplotlib or Pandas plotting libraries.
 * For Part I, you must include a written description of three observable trends based on the data.
